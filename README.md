@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huseyingulennet&color=181717&style=flat-square">
-</p
+  <img src="https://img.shields.io/badge/Profile%20Views-10K+-0A0A0A?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
 ---
 
 # Hüseyin Gülen

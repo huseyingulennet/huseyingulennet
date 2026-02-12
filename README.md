@@ -8,6 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=huseyingulennet&color=181717&style=flat-square">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=huseyingulennet&color=181717&style=flat-square">
+</p
 ---
 
 # Hüseyin Gülen

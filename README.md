@@ -1,88 +1,66 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=140&section=header&text=H%C3%BCseyin%20G%C3%BClen&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
-</p>
+# H G
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huseyingulennet&color=121212&style=flat-square">
-</p>
+**Software Architect · AI Systems Builder · Product Engineer**
 
----
+Minimal. Ölçeklenebilir. Kalıcı.
 
-# Hüseyin Gülen
+Modern yazılım yalnızca çalışan sistemler üretmez —  
+**geleceğe dayanıklı altyapılar tasarlar.**
 
-Software Architect building scalable, secure and production-grade systems.
+Benim odağım:
 
-I design infrastructure.  
-I build resilient platforms.  
-I solve complexity.
-
----
-
-## System Design Approach
-
-```mermaid
-flowchart LR
-
-Users --> Edge
-Edge --> Gateway
-Gateway --> Services
-Services --> Cache
-Services --> Database
-Services --> AI
-Database --> Replicas
-Replicas --> Backup
-AI --> VectorStore
-```
-
-**Principles**
-
-```
-Architecture > Code
-Scalability > Speed
-Security > Convenience
-Reliability > Trend
-```
-
-Great systems are quiet.  
-If you notice the infrastructure — it is already failing.
+- Büyük ölçekli sistem mimarileri  
+- Yapay zeka odaklı ürünler  
+- Yüksek performanslı backend tasarımları  
+- Donanım bağımsız platformlar  
+- Teknik mükemmeliyet  
 
 ---
 
-## Now
+## Sistem Tasarım Yaklaşımım
 
-Designing AI-native platforms, secure infrastructures and distributed systems.
+> **"Good architecture is invisible."**
 
----
+Sistemlerim üç temel prensip üzerine kurulur:
 
-## Selected Work
+**1. Simplicity wins**  
+Gereksiz kompleksite teknik borçtur.
 
-**AI Skin Analysis Platform**  
-Commercial computer vision system.
+**2. Design for scale**  
+Bugünün değil, yarının yükünü kaldıracak yapılar kurarım.
 
-**Enterprise ERP**  
-Operational backbone for multi-branch businesses.
-
-**Secure Linux Environments**  
-Hardened production architectures.
+**3. Reliability is a feature**  
+Stabilite, performans kadar kritiktir.
 
 ---
 
-## Stack
+## Öne Çıkan Proje
 
-Laravel • Node.js • Python  
-Linux • Docker • Redis  
-React • Next.js  
-Cloud • AI Systems  
+### **AI-Skin — Intelligent Skin Analysis Platform**
+
+Kurumsal kullanım için tasarlanmış, bilgisayarlı görü ve makine öğrenimi destekli profesyonel cilt analiz sistemi.
+
+**Amaç:**  
+Subjektif değerlendirmeleri ortadan kaldıran, veri odaklı ve yüksek doğruluklu analizler üretmek.
+
+**Platform Yetkinlikleri**
+
+- ⚡ Gerçek zamanlı görüntü işleme pipeline’ı  
+- 🧠 Klinik doğruluk hedefli AI modelleri  
+- 🏗️ Mikroservis uyumlu ölçeklenebilir mimari  
+- 🔌 Device-agnostic entegrasyon (dermatoscope / macro / medical cam)  
+- 🔐 Güvenlik merkezli veri tasarımı  
+- ☁️ Cloud-native altyapı  
+
+**Sonuç:**  
+Daha hızlı analiz, daha tutarlı kararlar ve teknoloji destekli profesyonel bakım süreçleri.
+
+AI-Skin bir araç değil —  
+**uzun ömürlü bir platformdur.**
 
 ---
 
-## Contact
+## Architecture Mindset
 
-huseyingulen.net  
-hello@huseyingulen.net
-
----
-
-<p align="center">
-Built for scale.
-</p>
+```text
+Observe → Model → Simplify → Scale

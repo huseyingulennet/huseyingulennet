@@ -1,139 +1,147 @@
-<h1 align="center">Hüseyin Gülen</h1>
-
+<!-- ANIMATED HEADER -->
 <p align="center">
-<strong>Yazılım Mimarı • Siber Güvenlik Mühendisi • AI Sistem Geliştirici</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=H%C3%BCseyin+G%C3%BClen;Software+Architect;Cyber+Security+Engineer;AI+Systems+Builder;Designing+Scalable+Digital+Ecosystems" />
 </p>
 
 <p align="center">
-Yüksek performanslı, güvenli ve ölçeklenebilir dijital sistemler inşa ediyorum.<br>
-Web, AI ve Cloud teknolojilerini production seviyesinde platformlara dönüştürüyorum.
+  <img src="https://komarev.com/ghpvc/?username=huseyingulennet&color=grey&style=flat-square" />
 </p>
 
 ---
 
-## Hakkımda
+# Hüseyin Gülen
 
-- 🧠 **10+ yıl** mühendislik deneyimi  
-- 🚀 **50+ canlıya alınmış proje**  
-- 🔐 Security-first mimari yaklaşımı  
-- ☁️ Cloud-native altyapı uzmanlığı  
-- 🤖 Yapay zeka destekli ürün geliştirme  
-- 🧩 Karmaşık problemleri sade ve ölçeklenebilir sistemlere dönüştürme  
+**Yazılım Mimarı • Siber Güvenlik Mühendisi • AI Sistem Geliştirici**
 
-> Sadece yazılım geliştirmem — dayanıklı dijital ekosistemler tasarlarım.
+Yüksek performanslı, güvenli ve ölçeklenebilir sistemler tasarlıyorum.  
+Web, Cloud ve Yapay Zeka teknolojilerini production seviyesinde platformlara dönüştürüyorum.
+
+> Kod yazmam. Sistem inşa ederim.
 
 ---
 
-## Uzmanlık Alanlarım
+## ⚡ Şu Anda Ne Geliştiriyorum?
 
-### Yazılım Mühendisliği
-- Full Stack Development  
-- API & Mikroservis Mimarileri  
-- SaaS Platformları  
-- Enterprise PHP / Laravel  
-- Node.js ekosistemi  
-- React & Next.js uygulamaları  
-- Yüksek performanslı backend sistemleri  
+- 🧠 AI destekli analiz platformları  
+- 🔐 Güvenli ve hardened sunucu mimarileri  
+- ☁️ Self-hosted cloud altyapıları  
+- 🤖 LLM tabanlı otomasyon sistemleri  
+- 🧩 Mikroservis tabanlı SaaS ürünleri  
 
-### Siber Güvenlik & Altyapı
-- Sızma Testleri (Pentest)  
-- Güvenli sistem tasarımı  
-- Linux sunucu mühendisliği  
-- Ağ güvenliği  
-- Şifreleme & veri koruma  
-- Zero-trust güvenlik yaklaşımları  
+---
 
-### DevOps & Cloud
-- Docker & Container mimarileri  
-- CI/CD pipeline tasarımı  
-- Self-hosted altyapılar  
-- Monitoring & observability  
+## 🧠 Uzmanlık Alanlarım
+
+**Mühendislik**
+- Sistem mimarisi  
+- Mikroservis altyapılar  
+- High-performance backend  
+- API ekosistemleri  
+- Enterprise Laravel  
+
+**Güvenlik**
+- Pentest  
+- Secure architecture  
+- Zero-trust yaklaşımları  
+- Encryption & veri koruma  
+
+**Altyapı**
+- Linux engineering  
+- Docker / container mimarileri  
+- CI/CD  
+- Observability  
 - Performans optimizasyonu  
 
-### Yapay Zeka Sistemleri
+**Yapay Zeka**
 - AI ürün entegrasyonu  
 - Prompt engineering  
-- Otomasyon sistemleri  
-- LLM tabanlı workflow’lar  
-- Computer vision projeleri  
-
-### Ürün & Tasarım Yaklaşımı
-- UI/UX stratejisi  
-- Dönüşüm odaklı tasarım  
-- Dijital marka oluşturma  
-- Uçtan uca ürün geliştirme  
+- Computer vision  
+- Akıllı otomasyon sistemleri  
 
 ---
 
-## Öne Çıkan Projeler
+## 🚀 Öne Çıkan Sistemler
 
-### 🧠 AI Destekli Cilt Analiz Platformu
-Computer vision tabanlı, ticari kullanıma uygun cilt analiz sistemi.
+### AI Skin Analysis Platform
+Computer vision destekli ticari cilt analiz sistemi.
 
-**Teknolojiler:** AI • Python • Vision Models • Cloud  
-
----
-
-### 🏢 Enterprise ERP Platformu
-Finans, operasyon ve randevu süreçlerini yöneten uçtan uca işletme yönetim sistemi.
-
-**Teknolojiler:** Laravel • Mikroservis • Docker  
+**Stack:** Python • AI • Cloud • Vision Models  
 
 ---
 
-### 🔐 Güvenli Sunucu ve Production Altyapıları
-Kritik sistemler için hardened Linux ortamları ve güvenli deployment pipeline’ları tasarlandı.
+### Enterprise ERP
+Finans, operasyon ve randevu süreçlerini yöneten ölçeklenebilir işletme platformu.
 
-**Odak:** Güvenlik + Stabilite  
+**Stack:** Laravel • Docker • Mikroservis  
 
 ---
 
-## GitHub İstatistikleri
+### Secure Production Infrastructures
+Kritik sistemler için hardened Linux ortamları ve güvenli deployment pipeline'ları.
+
+**Odak:** Stabilite + Güvenlik  
+
+---
+
+## 📊 GitHub Aktivite
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyingulennet&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingulennet&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyingulennet&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingulennet&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## Teknoloji Stack'im
+## 🧰 Tech Stack
 
-### Diller
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Backend
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php)
+![Node](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs)
 
-### Altyapı
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Infrastructure
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
 
 ---
 
-## Mühendislik Felsefem
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/huseyingulennet/huseyingulennet/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+> Snake animasyonunun çalışması için repoya GitHub Action eklenmesi gerekir.  
+> İstersen sana 30 saniyede kurulan action dosyasını da verebilirim.
+
+---
+
+## 🧭 Teknik Manifesto
 
 ```
 Mimari > Kod
-Güvenlik > Konfor
-Performans > Hype
+Güvenlik > Hızlı Çözümler
+Performans > Trendler
 Ölçeklenebilirlik > Kısa Yollar
+Basitlik > Karmaşıklık
 ```
 
-> İyi yazılım görünmezdir. Büyük sistemler sessiz çalışır.
+**İyi yazılım görünmezdir.  
+Büyük sistemler sessiz çalışır.**
 
 ---
 
-## Benimle İletişime Geç
+## 🌐 İletişim
 
-🌐 Website: https://huseyingulen.net  
-📩 Mail: hello@huseyingulen.net  
+Website: https://huseyingulen.net  
+Mail: hello@huseyingulen.net  
 
 ---
 
 <p align="center">
-<strong>Ölçek büyüse bile ayakta kalan sistemler inşa ediyorum.</strong>
+<strong>Building systems that survive scale.</strong>
 </p>

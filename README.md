@@ -1,76 +1,139 @@
-# 👋 Merhaba, Ben Hüseyin Gülen  
-
-### 🚀 Tasarımcı • BT Danışmanı • Web3 Explorer  
-**Fikirleri dijital ürünlere dönüştürüyor, işletmeleri geleceğe taşıyorum.**  
-
-Premium çözümler, güvenli altyapılar ve inovatif teknolojilerle **Web2’den Web3’e dijital dönüşüm** sağlıyorum.  
-
----
-
-## 🌐 Hakkımda  
-- 💡 **10+ yıl** profesyonel deneyim  
-- 🛠️ **50+ proje** başarıyla tamamlandı  
-- 🔗 Web2 & Web3 köprüsü: klasik yazılım çözümlerinden blockchain tabanlı sistemlere geçiş  
-- 🎯 Misyon: **Kullanıcı dostu, güvenli ve ölçeklenebilir** dijital ürünler geliştirmek  
-
----
-
-## 🛠️ Uzmanlık Alanlarım  
-
-| **Web & Yazılım** | **Siber Güvenlik & DevOps** | **Tasarım & Web3** |
-| :--- | :--- | :--- |
-| 🌐 Full Stack Development (React, Next.js, PHP, Node.js) | 🐧 Linux Sistem Yönetimi | 🎨 UI/UX & Dijital Kimlik |
-| 📱 Mobil Uygulama (Flutter, React Native) | 🐳 Docker, CI/CD | ✨ NFT & Web3 Tasarım |
-| ⚡ API & Mikroservis Mimarisi | 🔐 Pentest & Veri Güvenliği | 🤖 AI & Otomasyon (n8n, Botlar) |
-| 🔗 Blockchain & Smart Contracts | ☁️ Cloud & Containerization | 🪙 Web3 Ekosistemleri (DeFi, DAO) |
-
----
-
-## 📊 GitHub İstatistiklerim  
+<h1 align="center">Hüseyin Gülen</h1>
+<p align="center">
+  <strong>Software Architect • Cyber Security Engineer • AI Builder</strong>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyingulennet&show_icons=true&theme=radical&count_private=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingulennet&layout=compact&theme=radical" height="150">
+High-performance, secure and scalable digital systems.
+<br>
+Bridging Web2, AI and Cloud technologies into production-grade platforms.
 </p>
 
 ---
 
-## 💻 Teknolojik Yetkinlikler  
+## About Me
 
-**Frontend & Backend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- 🧠 10+ years of engineering experience  
+- 🚀 Delivered 50+ production systems  
+- 🔐 Security-first architecture mindset  
+- ☁️ Cloud-native infrastructure builder  
+- 🤖 AI-powered product developer  
+- 🧩 Specialist in turning complex problems into scalable solutions  
 
-**Security & DevOps:**  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-E01E5A?style=for-the-badge&logo=fortinet&logoColor=white)
-![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/-Web3-00C58E?style=for-the-badge&logo=web3.js&logoColor=white)
+> I don’t just write code — I design resilient digital ecosystems.
 
 ---
 
-## 🏆 Seçkin Projeler & Başarı Metrikleri  
-- ✅ **50+** Tamamlanan Proje  
-- ✅ **10+** Yıl Sektör Tecrübesi  
-- 🌟 **Öne Çıkan:** Saloon Berna AI-Skin (Yapay Zeka Destekli Cilt Analizi)  
-- 🌟 **Öne Çıkan:** Enterprise ERP & Randevu Sistemleri  
-- 🌟 **Web3:** NFT Marketplace & DAO Yönetim Panelleri  
+## Core Expertise
+
+### Software Engineering
+- Full Stack Development  
+- API & Microservice Architecture  
+- SaaS Platform Development  
+- Enterprise PHP / Laravel  
+- Node.js ecosystems  
+- React & Next.js applications  
+- High-performance backend systems  
+
+### Cyber Security & Infrastructure
+- Penetration Testing  
+- Secure System Design  
+- Linux Server Engineering  
+- Network Security  
+- Encryption & Data Protection  
+- Zero-trust security approaches  
+
+### DevOps & Cloud
+- Docker & Containerization  
+- CI/CD Pipelines  
+- Self-hosted infrastructures  
+- Observability & monitoring  
+- Performance tuning  
+
+### AI Systems
+- AI product integration  
+- Prompt engineering  
+- Automation pipelines  
+- LLM-powered workflows  
+- Computer vision projects  
+
+### Product & Design Thinking
+- UI/UX strategy  
+- Conversion-focused design  
+- Digital branding  
+- End-to-end product development  
 
 ---
 
-## 📫 Benimle Bağlantı Kur  
-- 🌐 **Web Sitesi:** [huseyingulen.net](https://huseyingulen.net)  
-- 📧 **E-posta:** hello@huseyingulen.net  
-- 📍 **Konum:** İzmir, Türkiye  
-- 🔗 **LinkedIn:** [linkedin.com/in/huseyingulen](https://linkedin.com/in/huseyingulen)  
-- 🪙 **Web3 Wallet:** `0xYourWalletAddress`  
+## Selected Projects
+
+### AI Skin Analysis Platform
+Computer vision supported skin diagnostics system designed for commercial usage.
+
+**Stack:** AI • Python • Vision Models • Cloud  
+
+---
+
+### Enterprise ERP Platform
+End-to-end business management system covering finance, operations and appointment orchestration.
+
+**Stack:** Laravel • Microservices • Docker  
+
+---
+
+### Secure Infrastructure Deployments
+Designed hardened Linux environments and secure production pipelines for mission-critical systems.
+
+**Focus:** Security + Stability  
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyingulennet&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingulennet&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+---
+
+## Tech Stack
+
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+
+### Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## Engineering Philosophy
+
+```
+Architecture > Code  
+Security > Convenience  
+Performance > Hype  
+Scalability > Shortcuts  
+```
+
+> Good software is invisible. Great infrastructure is silent.
+
+---
+
+## Connect With Me
+
+🌐 Website: https://huseyingulen.net  
+📩 Email: hello@huseyingulen.net  
 
 ---
 
 <p align="center">
-  <i>"Premium dijital çözümlerle işletmenizi bir adım öne taşıyorum."</i>
+<strong>Building systems that survive scale.</strong>
 </p>

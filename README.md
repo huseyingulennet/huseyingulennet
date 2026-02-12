@@ -20,6 +20,21 @@ Web, Cloud ve Yapay Zeka teknolojilerini production seviyesinde platformlara dö
 
 ---
 
+## Sistem Tasarım Yaklaşımım
+
+```mermaid
+flowchart LR
+
+Client --> CDN
+CDN --> Gateway
+Gateway --> Services
+Services --> AI
+Services --> Database
+Services --> Cache
+Database --> Backup
+AI --> VectorDB
+```
+
 ## ⚡ Şu Anda Ne Geliştiriyorum?
 
 - 🧠 AI destekli analiz platformları  

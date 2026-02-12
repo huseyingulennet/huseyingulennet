@@ -1,147 +1,178 @@
-<!-- ANIMATED HEADER -->
+<!-- ULTRA BLACK BANNER -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=H%C3%BCseyin+G%C3%BClen;Software+Architect;Cyber+Security+Engineer;AI+Systems+Builder;Designing+Scalable+Digital+Ecosystems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=220&section=header&text=H%C3%BCseyin%20G%C3%BClen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huseyingulennet&color=grey&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=huseyingulennet&color=181717&style=flat-square">
 </p>
 
 ---
 
 # Hüseyin Gülen
 
-**Yazılım Mimarı • Siber Güvenlik Mühendisi • AI Sistem Geliştirici**
+**Software Architect • AI Systems Builder • Cyber Security Engineer**
 
-Yüksek performanslı, güvenli ve ölçeklenebilir sistemler tasarlıyorum.  
-Web, Cloud ve Yapay Zeka teknolojilerini production seviyesinde platformlara dönüştürüyorum.
+Production seviyesinde çalışan, ölçeklenebilir ve güvenli dijital sistemler tasarlıyorum.
 
-> Kod yazmam. Sistem inşa ederim.
-
----
-
-## ⚡ Şu Anda Ne Geliştiriyorum?
-
-- 🧠 AI destekli analiz platformları  
-- 🔐 Güvenli ve hardened sunucu mimarileri  
-- ☁️ Self-hosted cloud altyapıları  
-- 🤖 LLM tabanlı otomasyon sistemleri  
-- 🧩 Mikroservis tabanlı SaaS ürünleri  
+Kod yazmaktan çok **mimari kurarım.**
 
 ---
 
-## 🧠 Uzmanlık Alanlarım
+## Architect Mindset
 
-**Mühendislik**
-- Sistem mimarisi  
-- Mikroservis altyapılar  
-- High-performance backend  
-- API ekosistemleri  
-- Enterprise Laravel  
+```
+Architecture > Code
+Security > Convenience
+Scalability > Speed
+Signal > Noise
+```
 
-**Güvenlik**
-- Pentest  
-- Secure architecture  
-- Zero-trust yaklaşımları  
-- Encryption & veri koruma  
-
-**Altyapı**
-- Linux engineering  
-- Docker / container mimarileri  
-- CI/CD  
-- Observability  
-- Performans optimizasyonu  
-
-**Yapay Zeka**
-- AI ürün entegrasyonu  
-- Prompt engineering  
-- Computer vision  
-- Akıllı otomasyon sistemleri  
+Büyük sistemler sessiz çalışır.
 
 ---
 
-## 🚀 Öne Çıkan Sistemler
+## Şu Anda Odaklandığım Alanlar
 
-### AI Skin Analysis Platform
-Computer vision destekli ticari cilt analiz sistemi.
-
-**Stack:** Python • AI • Cloud • Vision Models  
-
----
-
-### Enterprise ERP
-Finans, operasyon ve randevu süreçlerini yöneten ölçeklenebilir işletme platformu.
-
-**Stack:** Laravel • Docker • Mikroservis  
+- AI tabanlı ticari platformlar  
+- Self-hosted cloud ekosistemleri  
+- Secure infrastructure design  
+- Mikroservis mimarileri  
+- LLM destekli otomasyonlar  
+- High-availability sistemler  
 
 ---
 
-### Secure Production Infrastructures
-Kritik sistemler için hardened Linux ortamları ve güvenli deployment pipeline'ları.
+## Sistem Tasarım Yaklaşımım
 
-**Odak:** Stabilite + Güvenlik  
+```mermaid
+flowchart LR
+
+Client --> CDN
+CDN --> Gateway
+Gateway --> Services
+Services --> AI
+Services --> Database
+Services --> Cache
+Database --> Backup
+AI --> VectorDB
+```
+
+**Prensip:** Tek noktadan hata vermeyen, yatay ölçeklenebilir sistemler.
 
 ---
 
-## 📊 GitHub Aktivite
+## Selected Systems
+
+**AI Skin Analysis Platform**  
+Computer vision destekli ticari analiz sistemi.
+
+Stack: `Python` `AI` `Cloud` `Vision Models`
+
+---
+
+**Enterprise ERP**  
+Finans, operasyon ve randevu orkestrasyonu yapan işletme platformu.
+
+Stack: `Laravel` `Docker` `Microservices`
+
+---
+
+**Secure Production Environments**  
+Hardened Linux altyapıları ve güvenli CI/CD pipeline’ları.
+
+Odak: **Stability + Security**
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyingulennet&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingulennet&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyingulennet&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyingulennet&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## Uses
+
+### Editor
+- VS Code / Cursor  
+- JetBrains tools  
 
 ### Backend
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php)
-![Node](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+- Laravel  
+- Node.js  
+- Python  
 
 ### Frontend
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs)
+- React  
+- Next.js  
 
 ### Infrastructure
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
+- Linux  
+- Docker  
+- Nginx  
+- Redis  
+
+### AI
+- OpenAI  
+- Local LLMs  
+- Vector Databases  
 
 ---
 
-## 🐍 Contribution Snake
+## AI-First Engineering
+
+Yapay zekayı sadece entegre etmem.  
+Ürünlerin merkezine konumlandırırım.
+
+Odak noktalarım:
+
+- AI-native product design  
+- Prompt architecture  
+- Retrieval sistemleri  
+- Automation agents  
+- Computer vision  
+
+---
+
+## Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/huseyingulennet/huseyingulennet/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-> Snake animasyonunun çalışması için repoya GitHub Action eklenmesi gerekir.  
-> İstersen sana 30 saniyede kurulan action dosyasını da verebilirim.
+> Snake için GitHub Action gerekir. İstersen tek dosyada kurulum atabilirim.
 
 ---
 
-## 🧭 Teknik Manifesto
+## Manifesto
 
 ```
-Mimari > Kod
-Güvenlik > Hızlı Çözümler
-Performans > Trendler
-Ölçeklenebilirlik > Kısa Yollar
-Basitlik > Karmaşıklık
+Basit tasarla.
+Güvenli kur.
+Yatay ölçekle.
+Sessiz çalıştır.
 ```
 
-**İyi yazılım görünmezdir.  
-Büyük sistemler sessiz çalışır.**
+İyi yazılım görünmezdir.  
+Harika altyapı fark edilmez.
 
 ---
 
-## 🌐 İletişim
+## Contact
 
-Website: https://huseyingulen.net  
-Mail: hello@huseyingulen.net  
+Website → https://huseyingulen.net  
+Mail → hello@huseyingulen.net  
 
 ---
 
 <p align="center">
-<strong>Building systems that survive scale.</strong>
+<strong>Designing systems that survive scale.</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=120&section=footer"/>
 </p>
